@@ -1,0 +1,4 @@
+About temporary interaction limits
+Enabling an interaction limit for a repository restricts certain users from commenting, opening issues, creating pull requests, reacting with emojis, editing existing comments, and editing titles of issues and pull requests.
+
+When you enable an interaction limit, you can choose a duration for the limit: 24 hours, 3 days, 1 week, 1 month, or 6 months. After the duration of your limit passes, users can resume normal activity in your repository.
